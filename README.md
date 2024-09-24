@@ -49,8 +49,8 @@ To get started with this project, you need to clone the repository, set up the M
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your-repository/symfony-rest-api.git
-   cd symfony-rest-api
+   git clone https://github.com/Mohammed3MG/Symfony_CRUD_LOGIN_REGISTRATION_API.git
+   cd Symfony_CRUD_LOGIN_REGISTRATION_API
    ```
 
 2. **Set Up Environment Variables**:
