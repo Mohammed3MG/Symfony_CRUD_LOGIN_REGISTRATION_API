@@ -67,7 +67,11 @@ To get started with this project, you need to clone the repository, set up the M
    php bin/console doctrine:migrations:migrate
    ```
 
-5. **Run the Server**:
+5. **Generate Public and Private Key for JWT using RSA**:
+     ```
+    php bin/console lexik:jwt:generate-keypair
+    ```
+6. **Run the Server**:
    ```
    symfony server:start
    ```
